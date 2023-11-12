@@ -1,0 +1,150 @@
+Soccer
+Basketball
+Tennis
+Golf
+Baseball
+Football
+Volleyball
+Table Tennis
+Rugby
+Badminton
+Swimming
+Ice Hockey
+Cricket
+Track and Field
+Gymnastics
+Wrestling
+Boxing
+Archery
+Cycling
+Sailing
+Rowing
+Karate
+Judo
+Taekwondo
+Fencing
+Skiing
+Snowboarding
+Figure Skating
+Surfing
+Skateboarding
+Weightlifting
+Crossfit
+Triathlon
+Horse Racing
+Formula 1
+Canoeing
+Curling
+Softball
+Lacrosse
+Water Polo
+Handball
+Bobsledding
+Luge
+Snooker
+Darts
+Beach Volleyball
+Pole Vault
+Taekwondo
+Synchronized Swimming
+Cross Country Running
+Roller Skating
+Skateboard
+Powerlifting
+Hurdling
+Orienteering
+Paragliding
+Crossfit
+Wakeboarding
+Kite Surfing
+Sumo Wrestling
+Hang Gliding
+Paddleboarding
+Rock Climbing
+Parkour
+Equestrian
+Polo
+Rhythmic Gymnastics
+Skeleton
+Speed Skating
+Nordic Combined
+Freediving
+Windsurfing
+Rodeo
+Canyoning
+Roller Derby
+Ultimate Frisbee
+Handball
+Curling
+Pickleball
+Underwater Hockey
+Underwater Rugby
+Biathlon
+Pentathlon
+Powerboating
+Synchronized Ice Skating
+Synchronized Diving
+Sumo Wrestling
+Competitive Eating
+Arm Wrestling
+Chess Boxing
+Dragon Boat Racing
+Tug of War
+Sepak Takraw
+Kabaddi
+Bungee Jumping
+Hang Gliding
+Inline Hockey
+Skydiving
+Water Skiing
+Pétanque
+Wheelchair Basketball
+Wheelchair Tennis
+Wheelchair Rugby
+Wheelchair Racing
+Boccia
+Goalball
+Sitting Volleyball
+Blind Soccer
+Wheelchair Fencing
+Para Archery
+Para Swimming
+Para Cycling
+Para Canoeing
+Para Powerlifting
+Para Badminton
+Para Taekwondo
+Para Equestrian
+Para Table Tennis
+Para Athletics
+Para Triathlon
+Team Handball
+Roller Derby
+Wheelchair Curling
+Underwater Hockey
+Buzkashi
+Kickball
+Indoor Volleyball
+Wood Chopping
+Bossaball
+Equestrian Vaulting
+Kneeboarding
+Wheelchair Curling
+Padel Tennis
+Inline Speed Skating
+Spikeball
+Fistball
+Trampoline Gymnastics
+Kabaddi
+Chess
+Arm Wrestling
+Diving
+Yoga
+Kiteboarding
+Snooker
+Airsoft
+Korfball
+Kickboxing
+Lacrosse
+Bodybuilding
+Pilates
